@@ -4,7 +4,7 @@
 
 ## 🧩 Contenido del repositorio
 
-### 📘 Vigenere_ataque.py 
+### 💠 Vigenere_ataque.py 
 Implementación del ataque al criptosistema de Vigenere mediante los métodos de Kasiski e implementando el Indice de Coincidencia e Indice de Coincidencia Mutuo.
 
 ### 💠 Vigenere_codificación.py
